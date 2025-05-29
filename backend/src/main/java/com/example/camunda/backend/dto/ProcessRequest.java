@@ -1,4 +1,4 @@
-package com.example.camunda2.registration_process.dto;
+package com.example.camunda.backend.dto;
 
 public class ProcessRequest {
 

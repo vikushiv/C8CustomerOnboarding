@@ -1,4 +1,4 @@
-package com.example.camunda2.registration_process.services;
+package com.example.camunda.backend.services;
 
 import java.util.Map;
 
